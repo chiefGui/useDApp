@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 0.10.1
+
+### Patch Changes
+
+- a07b14f: 📧 Add useChainMeta hook to get chain metadata from ChainID
+
 ## 0.10.0
 
 ### Minor Changes
